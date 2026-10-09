@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Manim render output
+media/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
